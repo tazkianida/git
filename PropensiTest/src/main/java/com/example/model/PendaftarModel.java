@@ -25,6 +25,7 @@ public class PendaftarModel
     private String jenisKelamin;
     //foto belum
     //tanggal lahir belum
+    // tes aja
     
     
 }
