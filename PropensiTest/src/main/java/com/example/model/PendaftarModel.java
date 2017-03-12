@@ -23,8 +23,7 @@ public class PendaftarModel
     private String provinsi;
     private String kota;
     private String jenisKelamin;
-    //foto belum
-    //tanggal lahir belum
-    
-    
+    // foto belum
+    // tanggal lahir belum
+
 }
